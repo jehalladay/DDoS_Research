@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+# CSV files
+*.csv
+
+# Pickle files for CSV caching
+*.csv.pickle
+*.pickle
+
 # Distribution / packaging
 .Python
 build/
