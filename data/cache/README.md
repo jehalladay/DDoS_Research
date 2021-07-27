@@ -1,0 +1,1 @@
+This directory is a cache for the data files.
