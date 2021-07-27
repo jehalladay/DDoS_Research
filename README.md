@@ -4,8 +4,8 @@
 Contributers: 
   * James E. Halladay
   * Nathan Briner
-  * Drake Cullen
   * Blake Kohlbrecher
+  * Drake Cullen
   * (non exhaustive)
     
   
