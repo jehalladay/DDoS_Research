@@ -22,4 +22,4 @@ This gives us a total of 25 features plus one for the label in the timebased dat
 
 We explored the dataset in Datset_statistics.ipynb. 
 
-![Dataset Benign vs. Malicious Table](./assets/CICDDoS2019-benign-vs-malicious-table.png)]
+![Dataset Benign vs. Malicious Table](./assets/CICDDoS2019-benign-vs-malicious-table.png)
