@@ -1,0 +1,1 @@
+The original CIC_DDoS2019 dataset's .csv files are to be placed in the folders in this directory.
