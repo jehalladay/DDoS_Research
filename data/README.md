@@ -14,3 +14,12 @@ We generate the timebased datasets based on the 23 time-based features used in [
 Besides the 23 features used by Lashkari et al., the dataset contains two more time-based features:
 * Forward Inter-Arrival Time Total (Fwd IAT Total)
 * Backward Inter-Arrival Time Total (Bwd IAT Total)
+
+This gives us a total of 25 features plus one for the label in the timebased datasets.
+
+
+## Raw Dataset Statistics
+
+We explored the dataset in Datset_statistics.ipynb. 
+
+![Dataset Benign vs. Malicious Table](./assets/CICDDoS2019-benign-vs-malicious-table.png)]
