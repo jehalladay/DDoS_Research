@@ -60,3 +60,6 @@ for model_name in model_names:
 
     # Add the model stats to the dataframe
     model_stats = model_stats.append({'model': model_name, 'acc': acc, 'loss': loss, 'val_acc': val_acc, 'val_loss': val_loss}, ignore_index=True)
+
+# then we graph our results
+
