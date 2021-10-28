@@ -1,13 +1,13 @@
-# Characterizing DDoS Traffic using Time-based Features
+# Detection and Characterization of DDoS Traffic using Time-based Features
 
 ### Using ML techniques to detect and characterize DDoS traffic using the CIC_DDoS2019 dataset
  
 Contributers: 
   * James E. Halladay
   * Nathan Briner
-  * Blake Kohlbrecher
   * Drake Cullen
-  * (non exhaustive)
+  * Ram Basnet
+  * Tenzin Doleck
     
   
 Advisor: 
