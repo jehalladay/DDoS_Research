@@ -25,4 +25,4 @@ The significance of the scenarios are as follows:
   * A: Shows how effective the classifier is at detecting DDoS attacks out of a 1:1 ratio of Benign traffic against a basket of all DDoS attack types
   * B: Shows how effective the classifier is at characterizing the type of DDoS attack out of a 1:11 ratio of each of 12 different DDoS attack types
   * C: Shows how effective the classifier is at detecting an individual DDoS attack out of a 1:1 ratio of Benign traffic against a single DDoS attack type
-  * D: Shows how effective the classifier is at detecting an individual DDoS attack out of a 1:1 ratio of a single DDoS attack type against a basket of all other 11 DDoS attack types
+  * D: Shows how effective the classifier is at characterizing an individual DDoS attack out of a 1:1 ratio of a single DDoS attack type against a basket of all other 11 DDoS attack types
