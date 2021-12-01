@@ -13,7 +13,8 @@ Contributers:
   * Tenzin Doleck
     
   
-Advisor: 
-  * Dr. Ram Basnet
+Advisors: 
+  * Ram Basnet
+  * Jeremy Bergen
 
 A repository for our work at the Colorado Mesa University Cyber Security Center, started Summer 2021.
