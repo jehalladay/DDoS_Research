@@ -6,7 +6,10 @@ Contributers:
   * James E. Halladay
   * Nathan Briner
   * Drake Cullen
+  * Jackson Warren
+  * Karson Fye
   * Ram Basnet
+  * Jeremy Bergen
   * Tenzin Doleck
     
   
